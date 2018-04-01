@@ -1,6 +1,0 @@
-cake conflic changes in new-mine-1
-second change
-change made in new-mine-1 branch
-cake is also mine
-second change
-this change has been added in master
