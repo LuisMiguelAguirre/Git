@@ -26,3 +26,5 @@ git merge master newbranch
 git show #show the diff with the parent
 git branch -d nameofbranchtobedeleted
 git merge --abort
+git remote add origin giturl
+git remote -v
