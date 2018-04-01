@@ -1,3 +1,0 @@
-Frosting
-
-change made in a detached head. I have to create a new branch to retain the changes
