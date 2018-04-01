@@ -1,0 +1,28 @@
+git commit ''
+git diff #idcommit1 #idcommit2
+git diff ##compares the working directory vs the staging area
+git diff --staged
+git log --stat
+git config --global color.ui auto
+git checkout #commit
+git checkout -b <new-branch-name> #create and goes to the new branch
+
+git init
+git status
+git version
+git add
+git reset #reset the stage area
+git reset --hard #resed the stage area and the working directory
+git commit -m "message here"
+
+git branch
+git branch name # create new branch
+git checkout new-mine-1
+git diff branch1 branch2
+git log --graph --oneline branch1 branch2
+
+git gc   # git garbage collector
+git merge master newbranch
+git show #show the diff with the parent
+git branch -d nameofbranchtobedeleted
+git merge --abort
